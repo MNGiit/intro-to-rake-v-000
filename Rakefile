@@ -21,5 +21,4 @@
     require_relative './db/seeds.rb'
   end
   
-  end
 end
